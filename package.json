@@ -1,0 +1,21 @@
+{
+  "name": "fyp_rokok_express_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "better-sqlite3": "^11.9.1",
+    "dotenv": "^16.5.0",
+    "ethers": "^6.13.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.10",
+    "react-native-dotenv": "^3.4.11",
+    "sqlite3": "^5.1.7"
+  }
+}
